@@ -1,0 +1,25 @@
+{
+  "name": "wqq_cli",
+  "version": "0.1.0",
+  "description": "a project template tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "wqq"
+  ],
+  "bin": {
+    "wqq": "./bin/cli"
+  },
+  "author": "wqq",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^7.2.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  }
+}
