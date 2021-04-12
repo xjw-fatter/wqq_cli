@@ -1,6 +1,5 @@
 # wqq_cli
-a project template tool
-项目模板获取工具
+A project template tool
 
 # Installation
 
@@ -27,4 +26,8 @@ Commands:
   help [command]  display help for command
 ```
 
-
+# Local
+node bin/cli list
+node bin/cli init
+node bin/cli add
+node bin/cli help
