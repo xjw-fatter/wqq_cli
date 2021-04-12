@@ -1,6 +1,6 @@
 {
   "name": "wqq_cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "a project template tool",
   "main": "index.js",
   "scripts": {
