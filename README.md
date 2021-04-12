@@ -27,7 +27,9 @@ Commands:
 ```
 
 # Local
+```
 node bin/cli list
 node bin/cli init
 node bin/cli add
 node bin/cli help
+```
