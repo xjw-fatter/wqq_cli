@@ -1,6 +1,6 @@
 {
   "name": "wqq_cli",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "a project template tool",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,10 @@
     "wqq": "./bin/cli"
   },
   "author": "wqq",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyXjw/wqq_cli.git"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "co": "^4.6.0",
